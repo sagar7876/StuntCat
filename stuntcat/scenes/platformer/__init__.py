@@ -1,0 +1,3 @@
+"""
+Platformer module.
+"""
